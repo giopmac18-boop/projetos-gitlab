@@ -2,3 +2,7 @@ h3{
     text-align: 20px;
     font-size: large;
 }
+
+a{
+    text-decoration: underline;
+}
