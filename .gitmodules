@@ -1,0 +1,9 @@
+[submodule "projeto-2-cicrano/projetos clone"]
+	path = projeto-2-cicrano/projetos clone
+	url = https://github.com/usuario/projeto-exemplo.git
+[submodule "projetos-gitlab"]
+	path = projetos-gitlab
+	url = https://gitlab.com/usuario/biblioteca-tal.git
+[submodule "sigespol"]
+	path = sigespol
+	url = https://link-do-repositorio/sigespol.git
